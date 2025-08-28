@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:shop_craft/core/utils/app_colors.dart';
 import 'package:shop_craft/featuers/auth/presentation/views/create_account_view.dart';
 import 'package:shop_craft/featuers/auth/presentation/views/sign_in_view.dart';
-import 'package:shop_craft/featuers/welcom_view/widgets/custom_elevated_button.dart';
+import 'package:shop_craft/core/utils/custom_elevated_button.dart';
 import 'package:shop_craft/generated/locale_keys.g.dart';
 
 class WelcomeView extends StatelessWidget {
