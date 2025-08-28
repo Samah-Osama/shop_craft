@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      
+      "name": "iPhone 16 Pro",
+      "price": 780000,
+      "image": "assets/images/shop_craft/iphone_16.jpg"
+      
+    },
+    {
+     
+      "name": "Samsung Galaxy S24 Ultra",
+      "price": 22000,
+      "image": "assets/images/shop_craft/samsung.jpg"
+      
+    },
+    {
+     
+      "name": "iPhone 16 ",
+      "price": 50000,
+      "image": "assets/images/shop_craft/iphone.jpg"
+      
+    },
+    {
+     
+      "name": "MacBook Pro",
+      "price": 30000,
+      "image": "assets/images/shop_craft/mac.jpg"
+     
+    },
+    {
+      
+      "name": "laptop",
+      "price": 1599.99,
+      "image": "assets/images/shop_craft/lap_top.jpg"
+      
+    },
+    {
+      
+      "name": "HP laptop",
+      "price": 12990,
+      "image": "assets/images/shop_craft/_-_2025-03-24t114305.967.jpg",
+      "category": "laptop"
+    }
+  ]
+}
