@@ -8,9 +8,9 @@
 
 ## 📸 Screenshots
 
-| Home Screen | Welcom Screen | SignIn Screen | | SignUp Screen |
-|-----------|----------------|--------------|
-| ![Home](assets/images/screen_shots/home_view.png) |  ![Home](assets/images/screen_shots/home_view_2.png) | ![Welcom](assets/images/screen_shots/welcom_view.png) | ![SignIn](assets/images/screen_shots/sign_in_view.png) | ![SignUp](assets/images/screen_shots/sign_up_view.png) |
+| Home Screen | Welcome Screen | Sign In | Sign Up |
+|-------------|----------------|---------|---------|
+| ![Home Screen](screen_shots/home_view.png) | ![Welcome Screen](screen_shots/welcome_view.png) | ![Sign In](screen_shots/sign_in_view.png) | ![Sign Up](screen_shots/sign_up_view.png) |
 
 ## ✨ Features
 
