@@ -10,7 +10,7 @@
 
 | Home Screen | Welcome Screen | Sign In | Sign Up |
 |-------------|----------------|---------|---------|
-| ![Home Screen](screen_shots/home_view.png) | ![Welcome Screen](screen_shots/welcome_view.png) | ![Sign In](screen_shots/sign_in_view.png) | ![Sign Up](screen_shots/sign_up_view.png) |
+| ![Home Screen](screen_shots/home_view.png) | ![Home Screen2](screen_shots/home_view_2.png) | ![Welcome Screen](screen_shots/welcom_view.png) | ![Sign In](screen_shots/sign_in_view.png) | ![Sign Up](screen_shots/sign_up_view.png) |
 
 ## ✨ Features
 
